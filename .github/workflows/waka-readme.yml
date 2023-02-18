@@ -23,3 +23,4 @@ jobs:
           Timezone: Asia/Xi'an
           SHOW_LOC_CHART: false
           SHOW_UPDATED_DATE: false
+          SHOW_COMMIT: false
