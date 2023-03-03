@@ -63,13 +63,13 @@
 
 💁 **My Information:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 537.3 kB Used in GitHub's Storage 
+> 📦 537.2 kB Used in GitHub's Storage 
  > 
 > 🏆 70 Contributions in the Year 2023
  > 
