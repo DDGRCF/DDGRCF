@@ -63,7 +63,7 @@
 
 💁 **My Information:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
@@ -85,11 +85,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      10 hrs 25 mins      ████████████████░░░░░░░░░   64.47 % 
-Markdown                 3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Makefile                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+C++                      10 hrs 29 mins      ███████████████░░░░░░░░░░   59.68 % 
+Markdown                 2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Makefile                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Go                       59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+C                        33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 ```
 
 **I Mostly Code in Python** 
