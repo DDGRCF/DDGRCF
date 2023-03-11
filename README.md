@@ -63,19 +63,19 @@
 
 💁 **My Information:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 537.4 kB Used in GitHub's Storage 
+> 📦 537.5 kB Used in GitHub's Storage 
  > 
-> 🏆 81 Contributions in the Year 2023
+> 🏆 84 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 55 Public Repositories 
+> 📜 56 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -95,11 +95,11 @@ Go                       1 hr 5 mins         █░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-C++                      8 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   13 repos            ████████████░░░░░░░░░░░░░   48.15 % 
+C++                      9 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
