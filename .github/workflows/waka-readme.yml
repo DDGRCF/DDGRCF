@@ -24,3 +24,4 @@ jobs:
           SHOW_LOC_CHART: false
           SHOW_UPDATED_DATE: false
           SHOW_COMMIT: false
+          SHOW_LANGUAGE: false
